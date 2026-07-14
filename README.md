@@ -55,12 +55,12 @@ WordPressに導入する場合は、このzipを使用してください。
 - ローカル：プロジェクトフォルダ直下の各zipファイル
   - `internal-medicine-clinic-hp-complete.zip`
   - `midori-naika-clinic-wordpress-theme.zip`
-- GitHub Release（限定公開）：
+- GitHub Release（Public）：
   `https://github.com/tenma325/internal-medicine-clinic-hp/releases/tag/v1.0.0`
 
 GitHubから受け取る場合の手順：
 
-1. 上記のReleaseページを開きます（招待されたGitHubアカウントでログインが必要です）。
+1. 上記のReleaseページを開きます。
 2. 「Assets」の中から必要なzipをクリックしてダウンロードします。
    - 内容確認・全体を渡す場合：`internal-medicine-clinic-hp-complete.zip`
    - WordPressに導入する場合：`midori-naika-clinic-wordpress-theme.zip`
@@ -88,13 +88,13 @@ GitHubから受け取る場合の手順：
 
 ### 方法2：GitHubで確認・ダウンロードする
 
-限定公開リポジトリ：
+Publicリポジトリ：
 
 `https://github.com/tenma325/internal-medicine-clinic-hp`
 
 GitHubにアクセスできるユーザーは、上記URLからソース一式を確認できます。配布用zipは Release ページ（`https://github.com/tenma325/internal-medicine-clinic-hp/releases/tag/v1.0.0`）の「Assets」からダウンロードできます。
 
-注意：リポジトリはPrivateのため、招待されたGitHubアカウントのみ閲覧できます。
+注意：現在はPublic公開のため、URLを知っている人以外でもGitHub上で閲覧・ダウンロードできます。
 
 ### 方法3：WordPressにテーマとして導入する
 
@@ -132,9 +132,9 @@ URL：
 
 公開範囲：
 
-Private（限定公開）
+Public（一般公開）
 
-閲覧するには、GitHubアカウントをリポジトリに招待する必要があります。
+GitHubアカウントにログインしていないユーザーでも、リポジトリとReleaseの配布zipを閲覧・ダウンロードできます。
 
 ## 差し替えが必要な仮情報
 
