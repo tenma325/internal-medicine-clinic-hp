@@ -6,6 +6,10 @@ Obsidian note `内科クリニックの新規ホームページ制作.md` の要
 
 GitHub Pagesで以下のURLから閲覧できます。
 
+`https://tenma325.github.io/devepopment/`
+
+補助URL：
+
 `https://tenma325.github.io/internal-medicine-clinic-hp/`
 
 ## GitHubリポジトリ
@@ -24,7 +28,7 @@ GitHub上でのzip配布は中止しました。
 
 ### 方法1：公開URLで見る
 
-1. ブラウザで `https://tenma325.github.io/internal-medicine-clinic-hp/` を開きます。
+1. ブラウザで `https://tenma325.github.io/devepopment/` を開きます。
 2. トップページが表示されます。
 3. ヘッダーのメニューから以下の各ページへ移動できます。
    - トップ
